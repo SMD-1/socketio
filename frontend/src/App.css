@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+input,
+button {
+  margin: 3px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #000;
+  font-size: 1.1rem;
+  padding: 5px 10px;
+}
+button {
+  cursor: pointer;
+}
+span {
+  padding: 5px 10px;
+  border: 1px solid #000;
+  background: rgb(148, 255, 148);
+  border-radius: 5px;
+}
